@@ -3,7 +3,7 @@ plugins {
     id 'maven-publish'
 }
 
-group 'at.klausbetz'
+group 'com.tonglec'
 version '1.9.0'
 java.sourceCompatibility = JavaVersion.VERSION_11
 
